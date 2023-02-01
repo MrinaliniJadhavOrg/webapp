@@ -1,4 +1,4 @@
-name: CIAction
+name: CIActionWorkflow
 
 on:
   pull_request:    
